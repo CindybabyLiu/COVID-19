@@ -15,4 +15,5 @@ Instruction:
 
 Contact:
 --------
+Github Link: https://github.com/CindybabyLiu/COVID-19.git
 Please contact mhirn@ufl.edu OR yuzhangliu@ufl.edu OR bryson.mcginley@ufl.edu OR s.miltenberger@ufl.edu if you have questions or need support.
