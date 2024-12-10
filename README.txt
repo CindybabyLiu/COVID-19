@@ -10,7 +10,7 @@ The COVID-19 pandemic significantly disrupted various aspects of life worldwide,
 Instruction:
 -------------
 1. Begin by downloading all files containing the data, please be sure all data files are in the same folder of the code file
-2. Execute the code in the order it is presented.
+2. Execute "Covid-19Final.py" first. If there are any mistakes, please check specific part of the .ipynb or .py file, thank you.
 
 
 Contact:
